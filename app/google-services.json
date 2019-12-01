@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444151730536",
+    "firebase_url": "https://basicoragniser.firebaseio.com",
+    "project_id": "basicoragniser",
+    "storage_bucket": "basicoragniser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444151730536:android:e6f81f8205febe410886dd",
+        "android_client_info": {
+          "package_name": "com.example.basicorganizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444151730536-hnq8b9g0shoq59ru2s1uqk0ollpn93ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basicorganizer",
+            "certificate_hash": "01240aa5d69e56a02ea421c24162ff9e4523fa68"
+          }
+        },
+        {
+          "client_id": "444151730536-r9r8qbl16u4b13jbgqfdvgkm40me3trb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdhxNelhlUrUQlSaMmvBI1ypgiv8Zpec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444151730536-r9r8qbl16u4b13jbgqfdvgkm40me3trb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
